@@ -7,5 +7,3 @@ I am a primarily front-end software developer experienced with JS, React, HTML, 
 - 🌱 I’m currently learning Node.js/Express
 - 💬 Ask me anything.
 - ⚡ Fun fact: I spent four months in the Peruvian Amazon categorizing mushroom species.
-
-![https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png-250x250](google.com)
