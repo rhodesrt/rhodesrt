@@ -1,10 +1,9 @@
 Hi I'm Tristan 👋
 
-I am a primarily front-end software developer experienced with JS, React, HTML, CSS and MongoDB/SQLite.  I have lesser experience with Python, C and Node.js/Express.
+I am a software developer experienced with JavaScript, HTML/CSS, React, MongoDB/SQLite, and a lot of tooling.  I'd like to learn Ruby on Rails and then dive into infosec, but for now I am looking to start my career in web development.
 
 - 🍁 Check out my [portfolio](https://www.tristanrhodes.dev)
-- 🌇 I'm currently seeking full-time employment.
-- 🌱 I’m currently learning Node.js/Express
-- ⚡ Fun fact: I spent four months in the Peruvian Amazon categorizing mushroom species.
+- 🌱 I’m currently building an application that visualizes common sorting algorithms.
+- ⚡ Fun fact: I spent four months living in the Peruvian Amazon categorizing mushroom species.
 
 Reach out to me at rhodestrt@gmail.com
