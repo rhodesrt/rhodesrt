@@ -1,6 +1,6 @@
 Hi I'm Tristan 👋
 
-I am a software developer experienced with JavaScript, HTML/CSS, React, MongoDB/SQLite, and a lot of tooling // Less experienced but familiar with C and Python.  I'd like to learn Ruby on Rails and then dive into infosec, but for now I am looking to start my career in web development.
+I am a software developer mainly working in JavaScript.  I'd like to learn Ruby on Rails and then dive into infosec, but for now I am looking to start my career in web development.
 
 - 🍁 Check out my [portfolio](https://www.tristanrhodes.dev)
 - 🌱 I’m currently building an application that visualizes common sorting algorithms.
